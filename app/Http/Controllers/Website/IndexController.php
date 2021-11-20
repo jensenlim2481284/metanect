@@ -11,7 +11,7 @@ class IndexController extends Controller
     # Index page 
     public function index()
     {
-        return view('website.index');
+        return view('pages.website.index');
     }
 
 
