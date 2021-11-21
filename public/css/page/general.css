@@ -7,7 +7,7 @@ Theme Setting
     --secondary-theme-color: #3f29c2;
     --highlight-theme-color: #ff7d41;
     --inactive-theme-color: #cfcfcf;
-    --highlight-secondary-theme-color: #e43b1d;
+    --highlight-secondary-theme-color: #50f1f1;
     --theme-background-color: rgba(0, 0, 0, 0.025);
     --default-background-color: #f6f6f6;
     --title-font-size: 24px;
@@ -1460,23 +1460,23 @@ iframe.scrolling {
 }
 
 
-#comingSoonModal img{
+#whatNextModal img{
     width: 50%;
 }
-#comingSoonModal h3{
+#whatNextModal h3{
     font-weight: 800;
     font-size: 22px;
     margin-top: 25px;
 }
-#comingSoonModal p{
+#whatNextModal p{
     font-weight: 400;
     font-size: var(--paragraph-font-size);
     opacity: 0.7;
 }
-#comingSoonModal .modal-footer{
+#whatNextModal .modal-footer{
     justify-content: center;
 }
-#comingSoonModal small{
+#whatNextModal small{
     opacity: 0.5;
 }
 
